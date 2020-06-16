@@ -1,4 +1,6 @@
 # Symulator Handlu Morskiego - SHM
+# UniversityDatabase
+[![Build Status](https://travis-ci.org/jakjan95/object-oriented-programming.git.svg?branch=project)](https://travis-ci.org/jakjan95/object-oriented-programming.git)
 
 Wykorzystaj kod napisany podczas zajęć. Jeśli go nie masz to skorzystaj z kodu w katalogu [solutions](../module1/solutions)
 
