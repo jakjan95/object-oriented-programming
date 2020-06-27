@@ -1,3 +1,3 @@
 # object-oriented-programming
 
-https://github.com/jakjan95/object-oriented-programming/workflows/badge.svg
+![](https://github.com/actions/hello-world/workflows/.github/workflows/c-cpp.yml/badge.svg)
